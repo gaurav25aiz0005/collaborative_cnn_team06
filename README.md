@@ -4,9 +4,9 @@ Team 06 - Collaborative CNN Development
 
 Team Members:
 
-User 1 (Base Repo): [User 1 Name] - Dataset: Plant Village
+User 1 (Base Repo): [Kushagra] - Dataset: Plant Village
 
-User 2 (Fork): [User 2 Name] - Dataset: Kaggle New Plant Diseases
+User 2 (Fork): [Gaurav] - Dataset: Kaggle New Plant Diseases
 
 Objective:
 Train and cross-test CNN models on distinct plant disease datasets to simulate a federated learning scenario with domain shift.
