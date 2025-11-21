@@ -1,5 +1,3 @@
-# File: models/model_v1.py
-
 import torch
 import torch.nn as nn
 from torchvision import models
