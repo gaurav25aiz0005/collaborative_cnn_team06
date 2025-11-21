@@ -1,0 +1,7 @@
+{
+    "tested_by": "User 2",
+    "model": "model_v1 (ResNet18)",
+    "dataset": "New Plant Diseases",
+    "accuracy": 0.030559981789210107,
+    "notes": "Partial load performed due to class mismatch."
+}
